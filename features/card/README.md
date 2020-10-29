@@ -1,5 +1,5 @@
 # 1. Card
-The `class Card` is a template for (Bridge) playing cards.
+The `class Card` is a template for a single playing cards.
 
 There are several ways to initialize a card, the main method being:
 
