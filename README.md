@@ -1,5 +1,7 @@
 # Deck of Cards
 
+![GitHub top language](https://img.shields.io/github/languages/top/jfklorenz/package-bridge)
+
 This is a **Javascript** package implementing a single playing card and a set of playing card representing either a deck or a hand.
 
 A single card can conveniently be generated via several input methods.
