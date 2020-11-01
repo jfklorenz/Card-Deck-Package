@@ -2,7 +2,7 @@
 
 [![NPM](https://nodei.co/npm/contract-bridge.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/Card-Deck-Package/)
 
-![Status](https://img.shields.io/badge/status-in%20progress-yellow) ![GitHub top language](https://img.shields.io/github/languages/top/jfklorenz/Card-Deck-Package) ![npm](https://img.shields.io/npm/v/Card-Deck-Package) ![npm](https://img.shields.io/npm/dm/Card-Deck-Package) ![NPM](https://img.shields.io/npm/l/Card-Deck-Package)
+![Status](https://img.shields.io/badge/status-release-green) ![GitHub top language](https://img.shields.io/github/languages/top/jfklorenz/Card-Deck-Package) ![npm](https://img.shields.io/npm/v/Card-Deck-Package) ![npm](https://img.shields.io/npm/dm/Card-Deck-Package) ![NPM](https://img.shields.io/npm/l/Card-Deck-Package)
 
 
 This is a **Javascript** package implementing a single playing card and a set of playing card representing either a deck or a hand.
