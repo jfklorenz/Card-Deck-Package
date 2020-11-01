@@ -1,0 +1,23 @@
+{
+  "name": "card-deck-package",
+  "version": "1.0.0",
+  "description": "Deck of standard playing cards.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfklorenz/Card-Deck-Package.git"
+  },
+  "keywords": [
+    "deck",
+    "deck of cards",
+    "cards",
+    "hand",
+    "hand of cards"
+  ],
+  "author": "Julian Lorenz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfklorenz/Card-Deck-Package/issues"
+  },
+  "homepage": "https://github.com/jfklorenz/Card-Deck-Package#readme"
+}
