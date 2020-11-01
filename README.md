@@ -1,6 +1,6 @@
 # Deck of Cards
 
-![GitHub top language](https://img.shields.io/github/languages/top/jfklorenz/CardDeck) ![GitHub](https://img.shields.io/github/license/jfklorenz/CardDeck)
+![Status](https://img.shields.io/badge/status-release-green) ![GitHub top language](https://img.shields.io/github/languages/top/jfklorenz/CardDeck) ![GitHub](https://img.shields.io/github/license/jfklorenz/CardDeck)
 
 
 This is a **Javascript** package implementing a single playing card and a set of playing card representing either a deck or a hand.
